@@ -1,7 +1,7 @@
 ﻿// ====================================================================================================================================
 // Name: Nick Velasco
 // Date: 6/5/2017
-// Experian Application
+// 
 // Assumes data.json file is in Resource file in solution.. (can be changed or modified per location)
 // Json.net/Linq  Nuget Package was added also
 // ====================================================================================================================================
